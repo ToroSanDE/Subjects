@@ -1,0 +1,10 @@
+ToroSanDE
+
+
+https://gist.github.com/tesseslol/da62aabec74c4fed889ea39c95efc6cc
+
+Configuriamo il nostro git con le nostre credenziali di GitHub:
+
+  git config --global user.name ToroSanDE
+  git config --global user.email drhubblebubble@gmail.com
+
